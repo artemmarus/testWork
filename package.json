@@ -1,0 +1,16 @@
+{
+  "name": "testwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.32.1"
+  },
+  "dependencies": {
+    "env": "^0.0.2"
+  }
+}
